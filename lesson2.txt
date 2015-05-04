@@ -5,3 +5,13 @@ it will need to keep track of the files within that repository.
 It does not create a commit at that moment.
 You need to initialise a repository so that you can start
 controlling versions of your files.
+
+How is the staging area different from the working directory/
+and what value does it offer?
+
+The staging area is a space where files to be committed stay.
+Not every file in the working directory will be part of a committ, whilst/
+in the staging area, every file will be part of the commit.
+It adds the value of not needing to create a new commit every time/
+a new file needs to be added. This way we can keep the idea of having/
+one commit per logical change
