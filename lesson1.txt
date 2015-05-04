@@ -1,0 +1,44 @@
+How did Diff help you seeing the bug?
+
+By making the comparison on the command line/
+I did not have to look through the file myself;
+that saves both my time and my energy,
+making my projects being completed more quickly and/
+making me less prone to being stressed.
+
+How can access do different history versions make you more efficient?
+
+Instead of having to go through the files myself and try/
+to find out where a difference between the version I am/
+seeing and an anterior version that is saved nowhere but in my/
+head, I can take advantage of all the features of diff by /
+comparing two versions I have right in front of me.
+
+What are the pros and cons of manually committing?
+
+The good thing is that you can commit what makes sense.
+You can make sure that every commit you make is good and can compile
+However, if you are left to same whenever you want, you can/
+end up not saving very often and me harmed by that.
+
+Why some version control systems allow for multiple files versions and others don't?
+
+Because the one that do recognise that some changes only/
+make sense when seen within the framework of a project/
+wide change which involves multiple files.
+
+How can you use Git commands to view your history of files?
+
+I can go to the folder where my project is and type git log.
+
+How can using Git make me more confident to make dangerous changes.
+
+By knowing that I can go back to previous codes and see exactly where/
+things were changed and even revert back if I break anything, I /
+don't need to be afraid of breaking the code because the damages/
+will be revertible.
+
+What will you use git for?
+
+I will use git in my modile development projects and maybe/
+in my java projects too.

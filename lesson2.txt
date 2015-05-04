@@ -1,0 +1,7 @@
+What happens when you initialise a repository and why do you need to do it?
+
+When you initialize a repository Git creates all the files/
+it will need to keep track of the files within that repository.
+It does not create a commit at that moment.
+You need to initialise a repository so that you can start
+controlling versions of your files.
