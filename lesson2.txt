@@ -15,3 +15,11 @@ in the staging area, every file will be part of the commit.
 It adds the value of not needing to create a new commit every time/
 a new file needs to be added. This way we can keep the idea of having/
 one commit per logical change
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+I can create changes on many files and then only add to the staging area those that,
+I want to make part of each commit. If I change multiple files, but a logical change
+comprises only a section of those files, I can select these and add to the staging area
+leaving the ones that do not make part of the commit only in the working directory
+and thus outside the commit.
